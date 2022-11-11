@@ -1,7 +1,5 @@
 ### Hi 👋
 
-<!--
-**eapolash/eapolash** is a 
 
 - 🔭 I’m currently working on ... Myself.
 - 🌱 I’m currently learning ... How to learn.
@@ -11,4 +9,4 @@
 - 📫 How to reach me: ... Not ready yet.
 - 😄 Pronouns: ... Polash
 - ⚡ Fun fact: ... I can't give up.
--->
+
