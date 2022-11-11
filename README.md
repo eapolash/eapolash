@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
-**eapolash/eapolash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eapolash/eapolash** is a 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Myself.
+- 🌱 I’m currently learning ... How to learn.
+- 👯 I’m looking to collaborate on ... Learning.
+- 🤔 I’m looking for help with ... Learning.
+- 💬 Ask me about ... How can i learn more?
+- 📫 How to reach me: ... Not ready yet.
+- 😄 Pronouns: ... Polash
+- ⚡ Fun fact: ... I can't give up.
 -->
